@@ -1,0 +1,33 @@
+{
+  "name": "long-build-time-sample",
+  "version": "1.0.0",
+  "description": "long-build-time-sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaqibshaikh20/long-build-time-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aaqibshaikh20/long-build-time-sample/issues"
+  },
+  "homepage": "https://github.com/Aaqibshaikh20/long-build-time-sample#readme",
+  "devDependencies": {
+    "@angular/animations": "^17.3.3",
+    "@angular/cli": "^17.3.3",
+    "@angular/common": "^17.3.3",
+    "@angular/compiler": "^17.3.3",
+    "@angular/core": "^17.3.3",
+    "@angular/platform-browser": "^17.3.3",
+    "@angular/platform-browser-dynamic": "^17.3.3",
+    "@angular/router": "^17.3.3",
+    "electron": "^29.2.0",
+    "react": "^18.2.0",
+    "vue": "^3.4.21"
+  }
+}
